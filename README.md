@@ -31,11 +31,12 @@ Scratch is telling you that you are doing it wrong.
 
 Each set of blocks has a different colour. Select the correct series of blocks just by looking at what colour they are.
 
-Start by first selecting the Data blocks. Click on “Make a Variable” and name it as “first_led” as in the picture.
-<img src="scratch_led_chaser-12.png" width=500 alt="First pieces of code">
+Start by first selecting the Data blocks. Click on “Make a Variable” and name it as “first_led”.
 
 This name is just a name and could be anything such as “red_led” if it was red, or “red_light” or in fact “yellow_banana”. 
 But it is best to call it something useful and relevant. 
+
+<img src="scratch_led_chaser-12.png" width=500 alt="First pieces of code">
 
 The first set of blocks that need to be placed are in the above picture. The block on the right is trying to show how to 
 change the values in these blocks by clicking on the small arrow. A menu appears and then either select the one you want 
