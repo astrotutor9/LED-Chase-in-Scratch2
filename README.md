@@ -42,11 +42,13 @@ The first set of blocks that need to be placed are in the above picture. The blo
 change the values in these blocks by clicking on the small arrow. A menu appears and then either select the one you want 
 or type a new one.
 
-<img src="scratch_led_chaser-13.png" width=500 alt="First led off">
+<img src="scratch_led_chaser-13.png" width=500 alt="First led">
 
 The most important thing to notice is the “output low” with the small arrow beside it. By clicking on the arrow you can 
 select “output high”. The difference is that high means on and low means off. Switching from high to low switches the LED 
 on and off. By getting Scratch to use high and low at the right times makes the LED flash. It really is that simple.
+
+<img src="scratch_led_chaser-14.png" width=500 alt="First and second led">
 
 Click on the green flag block and the code will run. What should happen is that the led on the board should be off 
 then switch on. Your code does not have any instruction to switch off unless the code is rerun. Try it.
